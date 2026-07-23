@@ -3,7 +3,7 @@
 🎓 Electronics & Communication Engineering Student  
 📍 India  
 💡 Passionate about Embedded Systems, IoT & Communication Technologies  
-🚀 Currently learning Python, VLSI & Microcontrollers  
+🚀 Currently learning Embedded C, RTOS.
 
 ---
 
@@ -21,7 +21,6 @@
 - Embedded Systems  
 - Internet of Things (IoT)  
 - Machine Learning Basics  
-- VLSI Design (Intro)  
 
 ---
 
