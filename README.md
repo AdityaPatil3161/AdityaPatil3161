@@ -9,10 +9,9 @@
 
 ## 🔧 Skills & Technologies
 
-- 💻 Programming: C, C++, Python  
+- 💻 Programming: C, C++, Python (Basic)
 - 🔌 Core ECE: Digital Electronics, Analog Circuits, Signals & Systems  
 - ⚙️ Tools: MATLAB, Multisim, Arduino IDE  
-- 🌐 Basics: HTML, CSS  
 
 ---
 
